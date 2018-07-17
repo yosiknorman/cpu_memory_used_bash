@@ -1,0 +1,212 @@
+Sel Jul 17 21:45:37 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5635        5058          76        1205        5853
+Swap:          9536           0        9536
+Sel Jul 17 21:45:44 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5635        5058          76        1205        5853
+Swap:          9536           0        9536
+Sel Jul 17 21:45:51 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5636        5056          76        1205        5851
+Swap:          9536           0        9536
+Sel Jul 17 21:45:58 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5637        5055          76        1205        5850
+Swap:          9536           0        9536
+Sel Jul 17 21:46:05 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5638        5054          76        1205        5849
+Swap:          9536           0        9536
+Sel Jul 17 21:46:12 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5639        5053          76        1205        5849
+Swap:          9536           0        9536
+Sel Jul 17 21:46:19 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5643        5050          76        1205        5845
+Swap:          9536           0        9536
+Sel Jul 17 21:46:26 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5646        5047          76        1205        5842
+Swap:          9536           0        9536
+Sel Jul 17 21:46:33 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5646        5046          76        1205        5842
+Swap:          9536           0        9536
+Sel Jul 17 21:46:40 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5650        5042          76        1205        5837
+Swap:          9536           0        9536
+Sel Jul 17 21:46:47 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5652        5041          76        1205        5836
+Swap:          9536           0        9536
+Sel Jul 17 21:46:54 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5654        5038          76        1205        5833
+Swap:          9536           0        9536
+Sel Jul 17 21:47:01 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5664        5027          76        1206        5824
+Swap:          9536           0        9536
+Sel Jul 17 21:47:08 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5735        4954          76        1208        5752
+Swap:          9536           0        9536
+Sel Jul 17 21:47:15 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5823        4856          76        1218        5664
+Swap:          9536           0        9536
+Sel Jul 17 21:47:22 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5915        4763          76        1219        5572
+Swap:          9536           0        9536
+Sel Jul 17 21:47:29 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5941        4731          76        1225        5546
+Swap:          9536           0        9536
+Sel Jul 17 21:47:36 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5948        4724          76        1226        5539
+Swap:          9536           0        9536
+Sel Jul 17 21:47:43 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5996        4673          76        1228        5491
+Swap:          9536           0        9536
+Sel Jul 17 21:47:50 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5980        4689          76        1228        5507
+Swap:          9536           0        9536
+Sel Jul 17 21:47:57 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        6028        4641          77        1229        5459
+Swap:          9536           0        9536
+Sel Jul 17 21:48:04 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5986        4683          77        1229        5501
+Swap:          9536           0        9536
+Sel Jul 17 21:48:11 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5960        4709          77        1229        5527
+Swap:          9536           0        9536
+Sel Jul 17 21:48:18 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5949        4719          77        1230        5538
+Swap:          9536           0        9536
+Sel Jul 17 21:48:25 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5937        4731          77        1229        5549
+Swap:          9536           0        9536
+Sel Jul 17 21:48:32 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5939        4729          77        1230        5548
+Swap:          9536           0        9536
+Sel Jul 17 21:48:39 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5938        4730          77        1230        5549
+Swap:          9536           0        9536
+Sel Jul 17 21:48:47 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5958        4709          77        1230        5529
+Swap:          9536           0        9536
+Sel Jul 17 21:48:54 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5975        4691          77        1231        5511
+Swap:          9536           0        9536
+Sel Jul 17 21:49:01 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5942        4724          77        1231        5545
+Swap:          9536           0        9536
+Sel Jul 17 21:49:08 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5931        4735          77        1231        5556
+Swap:          9536           0        9536
+Sel Jul 17 21:49:15 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5918        4748          77        1231        5569
+Swap:          9536           0        9536
+Sel Jul 17 21:49:22 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5898        4768          77        1231        5588
+Swap:          9536           0        9536
+Sel Jul 17 21:49:29 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5884        4782          77        1231        5603
+Swap:          9536           0        9536
+Sel Jul 17 21:49:36 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5886        4780          77        1231        5601
+Swap:          9536           0        9536
+Sel Jul 17 21:49:43 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5889        4777          77        1231        5597
+Swap:          9536           0        9536
+Sel Jul 17 21:49:50 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5884        4782          77        1231        5602
+Swap:          9536           0        9536
+Sel Jul 17 21:49:57 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5883        4783          77        1231        5604
+Swap:          9536           0        9536
+Sel Jul 17 21:50:04 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5885        4781          77        1231        5602
+Swap:          9536           0        9536
+Sel Jul 17 21:50:11 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5885        4782          77        1231        5602
+Swap:          9536           0        9536
+Sel Jul 17 21:50:18 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5890        4777          77        1231        5597
+Swap:          9536           0        9536
+Sel Jul 17 21:50:25 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5881        4785          77        1231        5606
+Swap:          9536           0        9536
+Sel Jul 17 21:50:32 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5935        4732          77        1231        5552
+Swap:          9536           0        9536
+Sel Jul 17 21:50:39 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5894        4763          77        1241        5592
+Swap:          9536           0        9536
+Sel Jul 17 21:50:46 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5890        4767          77        1241        5596
+Swap:          9536           0        9536
+Sel Jul 17 21:50:53 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5895        4755          77        1248        5590
+Swap:          9536           0        9536
+Sel Jul 17 21:51:00 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5893        4757          77        1248        5592
+Swap:          9536           0        9536
+Sel Jul 17 21:51:07 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5894        4756          77        1248        5591
+Swap:          9536           0        9536
+Sel Jul 17 21:51:14 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5895        4755          77        1248        5591
+Swap:          9536           0        9536
+Sel Jul 17 21:51:21 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5900        4749          77        1248        5585
+Swap:          9536           0        9536
+Sel Jul 17 21:51:28 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5900        4749          77        1248        5585
+Swap:          9536           0        9536
+Sel Jul 17 21:51:35 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5903        4747          77        1248        5583
+Swap:          9536           0        9536
+Sel Jul 17 21:51:42 WITA 2018
+              total        used        free      shared  buff/cache   available
+Mem:          11898        5904        4746          77        1248        5582
+Swap:          9536           0        9536
